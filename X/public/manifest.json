@@ -1,0 +1,15 @@
+{
+  "name": "Lewis & Kate \u2013 Love Card Game",
+  "short_name": "L&K Love Game",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#8b005d",
+  "background_color": "#000000",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
